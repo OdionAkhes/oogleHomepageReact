@@ -24,4 +24,4 @@ Footer Text
 FooterLinks
 
 
-To demonstrate the use of states, I would add a state to the SearchBar Component that stores the search keyword entered by the user. Then, I would add an event listener to the input field that updates the state with the current value of the input field every time the user types something. Finally, I would add an event listener to the search button and/or the 'Enter' key that displays the search keyword directly under the SearchBar Component
+To demonstrate the use of states, I would add a state to the SearchBar Component that stores the search keyword entered by the user. Then, I would add an event listener to the input field that updates the state with the current value of the input field every time the user types something. Finally, I would add an event listener to the search button and/or the 'Enter' key that displays the search keyword directly under the SearchBar Component# oogleHomepageReact
