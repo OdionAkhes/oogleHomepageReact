@@ -45,7 +45,7 @@ body {
     display: flex;
     font-weight: 400;
   padding: 10px;
-  height: 50px;
+  /* height: 50px; */
 }
 
 .app-header-menu {
@@ -64,7 +64,7 @@ body {
   justify-content: space-between;
   align-items: center;
   height: 45px;
-/* padding: 5px 15px; */
+padding: 5px 15px;
  margin: 25px auto;
 max-width: 560px;
 background-color: #202124;
@@ -98,10 +98,9 @@ border-radius: 999px;
 .search span {
   width: 15px;
   height: 15px;
-  color: #a5aab0
+  color: #a5aab0;
 }
 .search img {
-  width: 20px;
   height: 20px;
   cursor: pointer;
 }
