@@ -20,7 +20,7 @@ const [search, setSearch] = useState('')
   return (
     <div className="App">
       <Header />
-      <div>
+      <div className='main'>
         <SearchSection handleSubmit={handleSubmit} search={search} />
         <Languages />
         <div>

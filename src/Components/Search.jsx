@@ -4,6 +4,7 @@ const Search = ({handleSubmit,search}) => {
   return (
     <div>
       <form action="" className="search">
+        <span className= ''></span>
         <input
           type="text"
           className="search-input"
@@ -12,6 +13,8 @@ const Search = ({handleSubmit,search}) => {
           onChange={handleSubmit}
           
         />
+        <img src="" alt="" />
+        <img src="" alt="" />
       </form>
     </div>
   );
