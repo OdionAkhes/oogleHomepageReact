@@ -1,5 +1,5 @@
 import Location from './Location';
-import FooterLeftLink from './footerLeftLink';
+import FooterLeftLink from './FooterLeftLink';
 import FooterRightLink from './FooterRightLink';
 const Footer = () => {
   return (
