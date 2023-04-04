@@ -1,11 +1,13 @@
-import React from 'react'
+/** @format */
 
-const FooterLeftLink = ({title}) => {
+import React from "react";
+
+const FooterLeftLink = ({ title }) => {
   return (
     <div>
       <p>{title}</p>
     </div>
   );
-}
+};
 
-export default FooterLeftLink
+export default FooterLeftLink;
